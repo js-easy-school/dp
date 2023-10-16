@@ -56,7 +56,7 @@ const AuthorizationContainer = ({ className }) => {
 
 	const [serverError, setServerError] = useState(null);
 
-	const dispatch = useDispatch;
+	const dispatch = useDispatch();
 
 	const onSubmit = ({ login, password }) => {
 		server.authorize(login, password).then(({ error, res }) => {
