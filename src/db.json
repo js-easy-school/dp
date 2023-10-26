@@ -91,5 +91,97 @@
       "published_at": "2045-06-21"
     }
   ],
-  "comments": []
+  "comments": [
+    {
+      "author_id": "anton",
+      "post_id": "001",
+      "published_at": "2045-07-02 06:49",
+      "content": "Первый комментарий",
+      "id": 1
+    },
+    {
+      "author_id": "anton",
+      "post_id": "001",
+      "published_at": "2035-10-12 16:28",
+      "content": "Первый комментарий 2",
+      "id": 2
+    },
+    {
+      "author_id": "anton",
+      "post_id": "001",
+      "published_at": "2056-05-23 06:38",
+      "content": "Первый комментарий 3",
+      "id": 3
+    },
+    {
+      "author_id": "anton",
+      "post_id": "001",
+      "published_at": "2045-04-15 03:49",
+      "content": "Первый комментарий 4",
+      "id": 4
+    },
+    {
+      "author_id": "anton",
+      "post_id": "001",
+      "published_at": "2057-10-05 13:58",
+      "content": "Первый комментарий 5",
+      "id": 5
+    },
+    {
+      "author_id": "anton",
+      "post_id": "001",
+      "published_at": "2063-03-12 16:57",
+      "content": "Новый комментарий\n",
+      "id": 6
+    },
+    {
+      "author_id": "anton",
+      "post_id": "001",
+      "published_at": "2063-06-27 16:25",
+      "content": "Новый комментарий 2\n",
+      "id": 7
+    },
+    {
+      "author_id": "anton",
+      "post_id": "001",
+      "published_at": "2048-06-06 20:39",
+      "content": "fgdhfgd fdghdfg hdf",
+      "id": 8
+    }
+  ],
+  "sessions": [
+    {
+      "hash": "0.85457571721163194666814888478256762027740478515625",
+      "user": {
+        "id": "001",
+        "login": "anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      },
+      "id": 1
+    },
+    {
+      "hash": "0.02259934777928118698753223725361749529838562011719",
+      "user": {
+        "id": "001",
+        "login": "anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      },
+      "id": 2
+    },
+    {
+      "hash": "0.82094596828992316694950659439200535416603088378906",
+      "user": {
+        "id": "001",
+        "login": "anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      },
+      "id": 3
+    }
+  ]
 }
