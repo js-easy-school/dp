@@ -109,27 +109,6 @@
     {
       "author_id": "anton",
       "post_id": "001",
-      "published_at": "2056-05-23 06:38",
-      "content": "Первый комментарий 3",
-      "id": 3
-    },
-    {
-      "author_id": "anton",
-      "post_id": "001",
-      "published_at": "2045-04-15 03:49",
-      "content": "Первый комментарий 4",
-      "id": 4
-    },
-    {
-      "author_id": "anton",
-      "post_id": "001",
-      "published_at": "2057-10-05 13:58",
-      "content": "Первый комментарий 5",
-      "id": 5
-    },
-    {
-      "author_id": "anton",
-      "post_id": "001",
       "published_at": "2063-03-12 16:57",
       "content": "Новый комментарий\n",
       "id": 6
@@ -182,6 +161,17 @@
         "roleId": 0
       },
       "id": 3
+    },
+    {
+      "hash": "0.26227454341730682685351894178893417119979858398438",
+      "user": {
+        "id": "001",
+        "login": "anton",
+        "password": "qwerty123",
+        "registeredAt": "2050-09-22",
+        "roleId": 0
+      },
+      "id": 4
     }
   ]
 }
