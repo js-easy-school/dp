@@ -72,6 +72,8 @@ const PostFormContainer = ({
 };
 
 export const PostForm = styled(PostFormContainer)`
+	padding: 40px 0 20px;
+
 	& img {
 		float: left;
 		margin: 0 20px 10px 0;
